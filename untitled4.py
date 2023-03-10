@@ -33,7 +33,7 @@ import torch
 from torch.utils.data import Dataset
 from torch.utils.data import random_split
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
-import stramlit as st,
+import stramlit as st
 
 drive.mount('/content/drive')
 

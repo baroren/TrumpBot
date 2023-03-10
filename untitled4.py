@@ -7,13 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1vpzo0vh4Uq4-03CUC4KVktbA3_1WkrGC
 """
 
-!pip install openai
 
-!pip install transformers
-
-!pip install streamlit
-!streamlit hello
-!pip install tokenizers
 
 #imports
 import numpy as np
